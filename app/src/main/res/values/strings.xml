@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleInvestCalc</string>
+    <string name="invest_sum">введіть суму інвестицій</string>
+    <string name="invest_period">введіть кількість місяців</string>
+    <string name="percentage">інвестеційний % за рік</string>
+    <string name="calculation">calculation</string>
+    <string name="result">капітал</string>
+</resources>
